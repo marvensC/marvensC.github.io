@@ -7,8 +7,16 @@ h1 {
   margin-left: 20px;
 }
 #nav-table{width:1024px;
-  ;
+  
 }
-#nav-td{max-width:256px; align:center;}
+#nav-td{
+  max-width:256px; align:center;
+}
+#whole-page{
+  width:1024px;
+  align:center;
+}
+#banner{
+}
 
 
