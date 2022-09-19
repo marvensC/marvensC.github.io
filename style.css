@@ -5,10 +5,10 @@ body {
 h1 {
   color: navy;
   margin-left: 20px;
-  #banner { margin-left:50px;
-  }
 }
 #nav-table{width:1024px;
   ;
 }
-#nav-td{width:256px; align:center;}
+#nav-td{max-width:256px; align:center;}
+#banner { margin-left:50px;
+}
